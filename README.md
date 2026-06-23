@@ -1,19 +1,17 @@
 
 <h1>ImRobb</h1>
     <p>
-        💻 Undergraduate student | My objective: Future PhD student.
+        💻 Computer Science Student | Aspiring PhD Student
     </p>
     <h2>
         ✍🏻 ABOUT ME
     </h2>
     <p>
-    - 👋 Hi, I’m Roberto an Italian guy. <br>
+    - 👋 Hi, I'm Roberto, a Computer Science student from Italy <br>
     - 👀 I'm a student.<br> 
-    - 🔭 I’m currently learning...<br>
-    - 📫 You can reach me to : robertoprivato18@gmail.com<br><br>
-    Hey, what’s going on? I hope that everything is fine, btw I am a student and I am not a professional, I am only here     to learn and also share my "university projects" 
-    with you, I hope these projects can help some of the new guys who are entering this world.
-    <br>For anything you can contact me in the email above. 
+    - 🔭 I'm currently expanding my knowledge through university studies and personal projects. <br>
+    - 📫 You can reach me at : robertoprivato18@gmail.com<br><br>
+    
   </p>
   <h2>
    💪🏾 SKILLS
@@ -66,6 +64,5 @@
 
 Cheerio!<br><br>
 <br>
-<i>Inspired by</i> <a href="https://github.com/UsboKirishima">UsboKirishima</a>
 
 
