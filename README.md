@@ -54,6 +54,6 @@ Sono uno studente di **Informatica** in Italia con una forte passione per i fond
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robertofiorino&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertofiorino&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=robertofiorino&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=robertofiorino&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150"/>
 </div>
