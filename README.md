@@ -10,11 +10,11 @@
 
 ## About Me & Interests
 
-Sono uno studente di **Informatica** in Italia con una forte passione per i fondamenti teorici e sistemistici dell'informatica. Il mio obiettivo principale è proseguire gli studi in un **dottorato di ricerca (PhD)**, approfondendo temi di ricerca che uniscono teoria e implementazione rigorosa.
+I am a **Computer Science** student in Italy with a strong passion for the theoretical and systems foundations of computer science. My main goal is to continue my studies with a **PhD**, deepening research topics that combine theory and rigorous implementation.
 
-* **Attualmente:** Approfondisco studi universitari avanzati e sviluppo progetti personali in ambito linguaggi e sistemi.
-* **Interessi di studio/ricerca:** Teoria della computazione, linguaggi di programmazione e metodi formali.
-* **In apprendimento:** Approfondimento della programmazione funzionale e design di linguaggi (**Haskell**).
+* **Currently:** I am pursuing advanced university studies and developing personal projects in the field of languages and systems.
+* **Study/research interests:** Theory of computation, programming languages and formal methods.
+* **Currently learning:** Deepening my knowledge of functional programming and language design (**Haskell**).
 
 ---
 
