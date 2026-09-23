@@ -1,6 +1,6 @@
 # Ciao, sono Roberto Fiorino 👋
 
-**Computer Science Student | Aspiring PhD Student**
+**BSc Computer Science Graduate | Aspiring PhD Student**
 
 [![Email](https://img.shields.io/badge/Email-robertoprivato18%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:robertoprivato18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-fiorino/)
@@ -10,9 +10,9 @@
 
 ## About Me & Interests
 
-I am a **Computer Science** student in Italy with a strong passion for the theoretical and systems foundations of computer science. My main goal is to continue my studies with a **PhD**, deepening research topics that combine theory and rigorous implementation.
+I hold a Bachelor's degree in **Computer Science** from Italy (Università degli Studi di Napoli Federico II) with a strong passion for the theoretical and systems foundations of computer science. My main goal is to continue my studies with a **PhD**, deepening research topics that combine theory and rigorous implementation.
 
-* **Currently:** I am pursuing advanced university studies and developing personal projects in the field of languages and systems.
+* **Currently:** I recently graduated and am developing personal projects in the field of languages and systems while preparing for a PhD.
 * **Study/research interests:** Theory of computation, programming languages and formal methods.
 * **Currently learning:** Deepening my knowledge of functional programming and language design (**Haskell**).
 
