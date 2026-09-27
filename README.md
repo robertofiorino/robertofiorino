@@ -1,4 +1,4 @@
-# Ciao, sono Roberto Fiorino 👋
+# Hi, I am Roberto Fiorino 👋
 
 **BSc Computer Science Graduate | Aspiring PhD Student**
 
