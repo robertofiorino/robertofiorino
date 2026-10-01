@@ -2,6 +2,7 @@
 
 **BSc Computer Science Graduate | Aspiring PhD Student**
 
+[![Website](https://img.shields.io/badge/Website-robertofiorino.me-B5401B?style=flat-square&logo=githubpages&logoColor=white)](https://robertofiorino.me/)
 [![Email](https://img.shields.io/badge/Email-robertoprivato18%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:robertoprivato18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-fiorino/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/robertofiorino)
@@ -13,6 +14,8 @@
 I hold a Bachelor's degree in **Computer Science** from Italy (Università degli Studi di Napoli Federico II) with a strong passion for the theoretical and systems foundations of computer science. My main goal is to continue my studies with a **PhD**, deepening research topics that combine theory and rigorous implementation.
 
 * **Currently:** I recently graduated and am developing personal projects in the field of languages and systems while preparing for a PhD.
+* **Thesis:** [*Aristarchus: Design and Implementation of a Verifier for the Sunya Dialect of Hypatia*](https://robertofiorino.me/bachelor-thesis.pdf), defended in September 2026.
+* **Open source:** contributed an optimisation to [Apalache](https://github.com/apalache-mc/apalache), the symbolic model checker for TLA+ ([PR #3488](https://github.com/apalache-mc/apalache/pull/3488), merged).
 * **Study/research interests:** Theory of computation, programming languages and formal methods.
 * **Currently learning:** Deepening my knowledge of functional programming and language design (**Haskell**).
 
@@ -27,6 +30,7 @@ I hold a Bachelor's degree in **Computer Science** from Italy (Università degli
 
 ### **Functional & Formal Methods**
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 
 ### **Web & Full-Stack Development**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -46,11 +50,21 @@ I hold a Bachelor's degree in **Computer Science** from Italy (Università degli
 
 ## Featured Projects
 
-| Progetto | Descrizione | Stack |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Aristarchus](#)** | Work in progress | `Haskell` |
-| **[Bugboard](#)** | (PRIVATE REPO) Issue tracker for small teams. | `Spring Boot` `JavaFX` `PostgreSQL` |
-| **[Road2Unina](#)** | (PRIVATE REPO) A wikipedia race game. | `Angular` `Typescript` `Express` |
+| **[Aristarchus](https://robertofiorino.me/projects/#aristarchus)** | Metamath-style proof checker for the Hypatia language: it validates a derivation instead of searching for one, and reports every error in a single run. Subject of my Bachelor's thesis. | `Haskell` |
+| **[Road2Unina](https://robertofiorino.me/projects/#road2unina)** | (PRIVATE REPO) A Wikipedia race game: reach Federico II in as few clicks as possible. | `Angular` `TypeScript` `Express` |
+| **[BugBoard](https://robertofiorino.me/projects/#bugboard)** | (PRIVATE REPO) Issue tracker for small teams. | `Spring Boot` `JavaFX` `PostgreSQL` |
+| **[Forza 4 online](https://robertofiorino.me/projects/#forza4)** | (PRIVATE REPO) Multiplayer Connect Four: multithreaded C server over TCP, Swing client, one `docker compose up`. | `C` `pthreads` `Java Swing` `Docker` |
+
+---
+
+## Open Source Contributions
+
+| Project | Contribution | Status |
+| :--- | :--- | :--- |
+| **[Apalache](https://github.com/apalache-mc/apalache)** — symbolic model checker for TLA+ | Rewrite membership in Cartesian products, `t \in S \X T` into `t[1] \in S /\ t[2] \in T`, so the product set is never constructed ([#1931](https://github.com/apalache-mc/apalache/issues/1931)). | [PR #3488](https://github.com/apalache-mc/apalache/pull/3488) · merged |
+
 ---
 
 <div align="center">
